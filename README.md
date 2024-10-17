@@ -33,7 +33,6 @@ Each project is designed to showcase a specific set of skills and techniques lea
 ## Technologies Used
 
 The repository includes projects implemented in a variety of languages and technologies, including:
-I will be using zip file to include the code since they are course projects and should not be directly searchable on internet.
 
 - **C++**: For parallel systems and low-level algorithm implementations.
 - **CUDA**: For GPU acceleration in machine learning and data processing tasks.
@@ -43,6 +42,7 @@ I will be using zip file to include the code since they are course projects and 
 ## Disclaimer
 
 These projects are part of my academic coursework and are for educational and demonstration purposes only. If you're working on similar coursework, I encourage you to use this repository as a reference but avoid copying the solutions directly.
+I will be using zip file to include the source code since they are course projects and should not be directly searchable on internet.
 
 ## Contact
 
